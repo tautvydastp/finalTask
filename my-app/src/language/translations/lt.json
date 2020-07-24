@@ -1,0 +1,14 @@
+{
+    "common": {
+      "service": "Pavadinimas",
+      "description": "Aprašymas",
+      "price": "Kaina"
+    },
+        "menu": {
+        "services": "Paslaugos",
+        "cars": "Automobiliai",
+        "newService": "Kurti naują paslaugą",
+        "login": "Prisijungti",
+        "logout":"Atsijungti"
+        }
+}

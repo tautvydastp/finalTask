@@ -1,0 +1,15 @@
+.container {
+    width: 920px;
+    margin: auto;
+    margin-top: 90px;
+  }
+
+  .footer {
+    background-color: rgba(49, 94, 231);
+    color: white;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+    width: 100%;
+}

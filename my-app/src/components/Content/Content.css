@@ -1,0 +1,31 @@
+.mt90{
+        width: 920px;
+        margin: auto;
+        margin-top: 90px;
+        font-size: 25px;
+}
+
+.r {
+        color: red;
+        font-size: 35px;
+        width: 920px;
+        margin: auto;
+        margin-top: 90px;
+}
+
+img {
+        text-align: left;
+}
+
+.h200{
+        height: 200px;
+}
+
+.ml350{
+        margin-left: 150px;
+}
+
+.mb{
+        margin-bottom: 170px;
+}
+

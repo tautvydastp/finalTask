@@ -1,0 +1,14 @@
+{
+    "common": {
+      "service": "Services",
+      "description": "Description",
+      "price": "Price"
+    },
+        "menu": {
+        "services": "Services",
+        "cars": "Cars",
+        "newService": "Create new service",
+        "login": "Login",
+        "logout":"Logout"
+        }
+}
